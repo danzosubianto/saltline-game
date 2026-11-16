@@ -1,8 +1,8 @@
 # saltline-game
 
-[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/danzosubianto/saltline-game/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/danzosubianto/saltline-game/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/danzosubianto/saltline-game/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/danzosubianto/saltline-game/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 An original round-based tactical FPS for the browser, built with three.js.
 Wardens vs Jackals at the Brineworks — a coastal salt plant at dawn.
@@ -19,7 +19,7 @@ node serve.ts
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=qy81p54j&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=qy81p54j&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards
 
 ## Play
 
